@@ -1,0 +1,9 @@
+#student, #teacher, #admin{
+    padding-top:10px;
+    border: blue solid 3px;
+    height: 60px;
+    border-radius : 50px;
+}
+#teacher:hover, #student:hover, #admin:hover{
+    background-color: lightblue ;
+}

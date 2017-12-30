@@ -1,0 +1,19 @@
+The online student result management portal serves as a portal which provides all the solution for presenting, editing, uploading the
+result. The portal has three types of users having their respective dashboards : 
+  1) Administrator - Has all the rights such as editing the number of semester, changing the subjects and the number of subjects of any
+                     of semesters. The administrator also recieves any kind of the feedbacks / advices by any user of the site.
+  2) Teachers - New teachers can sign up on the portal along with the details of the subjects they can teach. Each teacher can teach one
+                or more subject. The teacher is also provided with the facility of uploading the result of their respective subject.
+  3) Students - New student can sign up along with the details of their current semesters and subjects. According to the semester and the 
+                subjects provided the students are assigned to a teacher teaching that subject. The student check the result semester and
+                subject wise.
+
+The web portal is made using the following technologies.
+Front End : HTML5, CSS, Bootstrap, JavaScript
+Back End : PHP(No Framework)
+Database : MySQL
+The website heavily uses advanced techniques such as Asynchronous JavaScript and XML(AJAX).
+
+The website can be run on a localhost using WAMP server. The index page can be found in the viewable folder.
+The webpages are in the viewable folder, the stylesheets are in CSS folder, Scripts in JavaSciript folder.
+
